@@ -1,2 +1,2 @@
-#!/bin/bash
-0 string SCHOOL !:MIME school
+0 string SCHOOL
+file -m school.mgc
