@@ -1,1 +1,1 @@
-This directory contains files for different execution commands
+This is a directory containing shell permission commands and their execution files
